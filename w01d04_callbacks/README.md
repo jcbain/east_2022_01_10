@@ -1,12 +1,12 @@
 # W01D04 - Callbacks
 
 ## Objectives
-- [ ] functions as values
-- [ ] calling a function vs. passing a function
-- [ ] callbacks!
-- [ ] anonymous functions
-- [ ] arrow functions
-- [ ] higher order functions
+- [X] functions as values
+- [X] calling a function vs. passing a function
+- [X] callbacks!
+- [X] anonymous functions
+- [X] arrow functions
+- [X] higher order functions
 
 ### Functions as values
 
